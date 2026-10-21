@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scrapy/scrapy-lint/commit/30a387279f0be38a48237d31725b1d52a2bcf297",
       "git:hexsha": "30a387279f0be38a48237d31725b1d52a2bcf297",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T02:55:22.120323+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scrapy/scrapy-lint/commit/961bd30293858bb753b917866bde605043cffd05",
